@@ -5,7 +5,7 @@ Cartridge-Version: 0.0.1
 Display-Name: Tomee 1.5
 Description: "Apache TomEE 1.5 is an open source software implementation of the Java Servlet and JavaServer Pages technologies"
 Version: '1.5'
-Versions: ['1.5', '1.6']
+Versions: ['1.6', '1.5']
 License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
 Vendor: apache
